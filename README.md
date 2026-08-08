@@ -65,10 +65,10 @@ Churn increases steadily with age, peaking sharply in the 46–60 bracket.
 ---
 
 ## 💡 Recommendations
-- **Investigate the Germany market** — its churn rate is double that of comparable markets, suggesting a local, product, or service issue worth a deeper dive.
-- **Launch re-engagement campaigns for inactive members** — activity status is one of the strongest churn predictors found in this analysis.
-- **Review the 3–4 product bundling strategy** — near-total churn among customers with 3+ products points to a serious retention problem tied to how these products are sold or supported.
-- **Prioritize retention efforts for the 46–60 age group** — this segment churns at more than 3x the rate of customers under 30, and represents a meaningful share of the customer base.
+- **Investigate the Germany market** : its churn rate is double that of comparable markets, suggesting a local, product, or service issue worth a deeper dive.
+- **Launch re-engagement campaigns for inactive members** : activity status is one of the strongest churn predictors found in this analysis.
+- **Review the 3–4 product bundling strategy** : near-total churn among customers with 3+ products points to a serious retention problem tied to how these products are sold or supported.
+- **Prioritize retention efforts for the 46–60 age group** : this segment churns at more than 3x the rate of customers under 30, and represents a meaningful share of the customer base.
 
 ---
 
